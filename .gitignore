@@ -1,0 +1,28 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Node.js (caso utilize futuramente)
+node_modules/
+
+# Cache
+.cache/
+dist/
+build/
+
+# Arquivos de backup
+*.bak
+
+# Arquivos compactados
+*.zip
+*.rar
