@@ -1,6 +1,29 @@
 {
   "name": "Calculadora Etanol x Gasolina",
   "short_name": "Combustível",
+  "screenshots": [
+    {
+      "src": "screenshots/tela-principal.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tela principal da calculadora"
+    },
+    {
+      "src": "screenshots/tela-sobre.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tela sobre o aplicativo"
+    },
+    {
+      "src": "screenshots/tela-tablet.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Visualização em tablet"
+    }
+  ],
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
