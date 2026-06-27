@@ -1,6 +1,6 @@
 # ⛽ Calculadora Etanol x Gasolina
 
-# Aplicacaoo Web desenvolvida com HTML, CSS e JavaScript para auxiliar na escolha entre abastecer com Etanol ou Gasolina utilizando a regra dos 70%.
+# Aplicacao Web desenvolvida com HTML, CSS e JavaScript para auxiliar na escolha entre abastecer com Etanol ou Gasolina com a utlização da regra dos 70%.
 
 ## 🚀 Funcionalidades
 
