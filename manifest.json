@@ -1,26 +1,76 @@
 {
   "name": "Calculadora Etanol x Gasolina",
-  "short_name": "Etanol x Gasolina",
-  "description": "Calculadora para comparar o custo entre etanol e gasolina e descobrir qual vale mais a pena abastecer.",
-  "start_url": "/calculadora-combustivel/",
-  "id": "/calculadora-combustivel/",
-  "scope": "/calculadora-combustivel/",
+  "short_name": "Combustível",
+
+  "description": "Compare os preços do etanol e da gasolina e descubra qual combustível é mais vantajoso para abastecer seu veículo.",
+    "start_url": "/calculadora-combustivel/",
+    "id": "/calculadora-combustivel",
+    "scope": "/calculadora-combustivel/",
+    "display": "standalone",
+    "background_color": "#ffffff,
+    "theme_color": "1b8a3a",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable",
+        },
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable",
+        }
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable",
+        }
+     ]
+   }
+           
+  "screenshots": 
+    {
+      "src": "screenshots/tela-principal.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tela principal da calculadora"
+    },
+    {
+      "src": "screenshots/tela-sobre.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tela sobre o aplicativo"
+    },
+    {
+      "src": "screenshots/tela-tablet.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Visualização em tablet"
+    }
+  ],
+
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#1b8a3a",
-  "orientation": "portrait",
+  "theme_color": "#28a745",
+
   "icons": [
     {
       "src": "icons/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "icons/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
